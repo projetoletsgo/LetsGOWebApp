@@ -1,0 +1,116 @@
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\LetsGO.dll
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\LetsGO.pdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\LetsGO.LetsGO.apk
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\LetsGO.LetsGO-Signed.apk
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\LetsGO.dll
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\LetsGO.pdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\bin\LetsGO.LetsGO.apk
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\layout\main.xml
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\values\strings.xml
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\drawable\icon.png
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\R.cs.flag
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\uploadflags.txt
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\drawable\logo.png
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\LetsGO.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Java.Interop.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Mono.Android.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\mscorlib.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Core.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Net.Http.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Xml.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\LetsGO.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\LetsGO.csprojResolveAssemblyReference.cache
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\layout\telaviagens.xml
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\layout\informacaoviagens.xml
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\drawable\edit_text_style.xml
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Newtonsoft.Json.pdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Newtonsoft.Json.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Data.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Numerics.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Transactions.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\Newtonsoft.Json.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\Projetos\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\LetsGO.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\LetsGO.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\LetsGO.dll
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\LetsGO.pdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\LetsGO.dll
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\LetsGO.pdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\LetsGO.LetsGO.apk
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\LetsGO.LetsGO-Signed.apk
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Newtonsoft.Json.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\bin\LetsGO.LetsGO.apk
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\layout\telaviagens.xml
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\layout\informacaoviagens.xml
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\layout\detalhes_viagens.xml
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\layout\main.xml
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\values\strings.xml
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\drawable\icon.png
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\drawable\logo.png
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\R.cs.flag
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\uploadflags.txt
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\LetsGO.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\mscorlib.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Core.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Data.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Numerics.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Transactions.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Xml.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\LetsGO.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\Newtonsoft.Json.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\obj\Debug\LetsGO.dll.mdb
+C:\Users\Marcos\Desktop\lets go\LetsGOAPPLocal\LetsGO\LetsGO\bin\Debug\LetsGO.dll.mdb

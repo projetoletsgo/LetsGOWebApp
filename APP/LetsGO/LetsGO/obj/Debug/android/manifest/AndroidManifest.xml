@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="LetsGO.LetsGO" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:minSdkVersion="22" android:targetSdkVersion="22" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="LetsGO" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <activity android:icon="@drawable/icon" android:label="LetsGO" android:name="md5c2640d5acc7f25e0a5804a906928d286.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Viagens" android:name="md505d543e29bad0091055dc4d299114bd7.TelaViagens" />
+    <activity android:label="DetalhesViagens" android:name="md55fc63361dc5c4cc4a0791b748201f300.DetalhesViagens" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="LetsGO.LetsGO.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.LetsGO.LetsGO" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

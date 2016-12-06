@@ -1,0 +1,16 @@
+LetsGO.DialogSignUp, LetsGO;md5c2640d5acc7f25e0a5804a906928d286.DialogSignUp
+LetsGO.DialogSignUp, LetsGO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c2640d5acc7f25e0a5804a906928d286.DialogSignUp
+LetsGO.DialogSignUp;md5c2640d5acc7f25e0a5804a906928d286.DialogSignUp
+letsgo.DialogSignUp;md5c2640d5acc7f25e0a5804a906928d286.DialogSignUp
+LetsGO.MainActivity, LetsGO;md5c2640d5acc7f25e0a5804a906928d286.MainActivity
+LetsGO.MainActivity, LetsGO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c2640d5acc7f25e0a5804a906928d286.MainActivity
+LetsGO.MainActivity;md5c2640d5acc7f25e0a5804a906928d286.MainActivity
+letsgo.MainActivity;md5c2640d5acc7f25e0a5804a906928d286.MainActivity
+LetsGO.Resources.TelaViagens, LetsGO;md505d543e29bad0091055dc4d299114bd7.TelaViagens
+LetsGO.Resources.TelaViagens, LetsGO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md505d543e29bad0091055dc4d299114bd7.TelaViagens
+LetsGO.Resources.TelaViagens;md505d543e29bad0091055dc4d299114bd7.TelaViagens
+letsgo.resources.TelaViagens;md505d543e29bad0091055dc4d299114bd7.TelaViagens
+LetsGO.Resources.view.DetalhesViagens, LetsGO;md55fc63361dc5c4cc4a0791b748201f300.DetalhesViagens
+LetsGO.Resources.view.DetalhesViagens, LetsGO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55fc63361dc5c4cc4a0791b748201f300.DetalhesViagens
+LetsGO.Resources.view.DetalhesViagens;md55fc63361dc5c4cc4a0791b748201f300.DetalhesViagens
+letsgo.resources.view.DetalhesViagens;md55fc63361dc5c4cc4a0791b748201f300.DetalhesViagens

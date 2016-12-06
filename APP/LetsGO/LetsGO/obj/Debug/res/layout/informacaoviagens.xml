@@ -1,0 +1,1 @@
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/txtExcursao" android:paddingTop="@android:dimen/notification_large_icon_height" android:layout_marginLeft="0.0dp" android:textColor="#000" xmlns:android="http://schemas.android.com/apk/res/android" />
